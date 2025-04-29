@@ -1,6 +1,6 @@
 # 🚀 Setting Up an SVN & Mercurial Server on Linux
 
-**By: Saubhik Mallick**
+**By: Rajus Kandpal**
 
 ## 📌 Introduction
 
